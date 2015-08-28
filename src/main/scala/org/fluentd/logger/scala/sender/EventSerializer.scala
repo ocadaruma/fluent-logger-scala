@@ -3,7 +3,6 @@ package org.fluentd.logger.scala.sender
 import org.json4s.Serializer
 import org.json4s.Formats
 import org.json4s.JsonAST.JObject
-import org.json4s.JsonAST.JField
 import org.json4s.Extraction
 import org.json4s.JsonAST.JValue
 import org.json4s.TypeInfo
